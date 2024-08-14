@@ -751,7 +751,7 @@ header.main-header .header-sticky.active{
 	border-radius: 40px;
 	padding: 20px;
 	height: calc(100% - 30px);
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .service-content{
@@ -1375,7 +1375,7 @@ header.main-header .header-sticky.active{
 }
 
 .our-team{
-	padding: 50px 0 50px;
+	padding: 20px 0 50px;
 }
 
 .team-member-item{
@@ -1485,7 +1485,7 @@ header.main-header .header-sticky.active{
 }
 
 .scrolling-ticker{
-	padding: 15px 0;
+	padding: 12px 0;
 	color: var(--white-color);
 	background-color: #C1282D;
 }
@@ -1511,7 +1511,7 @@ header.main-header .header-sticky.active{
 	display: inline-flex;
 	align-items: center;
 	font-family: var(--accent-font);
-	font-size: 40px;
+	font-size: 24px;
 	line-height: 1.4em;
 	font-weight: 700;
 }
@@ -3230,8 +3230,8 @@ header.main-header .header-sticky.active{
     }
 
     .page-about-image{
-        padding-bottom: 110px;
-        padding-top: 50px;
+        padding-bottom: 0px;
+        padding-top: 0px;
     }
 
     .about-img-2{
