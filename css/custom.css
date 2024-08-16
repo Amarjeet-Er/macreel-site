@@ -318,6 +318,24 @@ body{
 	color: #5D56F1;
 }
 
+.key-text{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.key-text li{
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.key-text li i{
+    color: #1e9985;
+}
+
 /************************************/
 /**** 	   03. Header css		 ****/
 /************************************/
