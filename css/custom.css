@@ -446,6 +446,7 @@ header.main-header .header-sticky.active{
 	left: 100%;
 	top: 0;
 	text-align: left;
+    margin-left: 10px;
 }
 
 .main-menu ul ul li{
@@ -548,9 +549,9 @@ header.main-header .header-sticky.active{
 	color: var(--primary-color);
 }
 
-.slicknav_menu ul ul li a{
+/* .slicknav_menu ul ul li a{
     padding: 10px 20px 10px 30px;
-}
+} */
 
 .slicknav_arrow{
 	font-size: 0 !important;
